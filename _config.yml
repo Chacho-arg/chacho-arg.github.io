@@ -1,0 +1,9 @@
+title: FM Olive
+email: Olive.live.fm@gmail.com
+description: >-
+  El contenido de mi feed RSS actualizado.
+url: "https://chacho-arg.github.io"
+
+# Opcional: plugins para el feed
+plugins:
+  - jekyll-feed
